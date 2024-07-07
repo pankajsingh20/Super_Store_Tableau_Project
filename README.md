@@ -1,6 +1,7 @@
 # Super_Store_Tableau_Project
 
-Objective- Analysing the store's performance across several categories and areas is the goal of the Super Store project. Through the use of Tableau's data visualisation tools, the initiative seeks to offer insights into sales and profit trends. Certain objectives consist of: 
+Objective-
+Analysing the store's performance across several categories and areas is the goal of the Super Store project. Through the use of Tableau's data visualisation tools, the initiative seeks to offer insights into sales and profit trends. Certain objectives consist of: 
 • Examining Profit and Sales Metrics: Establish parameters and compute the corresponding fields for profit and sales. 
 Analyse sales and profits according to categories and regions. 
 Analyse the profitability of each state and city separately. 
